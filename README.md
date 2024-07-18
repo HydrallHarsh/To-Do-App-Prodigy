@@ -47,12 +47,8 @@ To-Do App is a task management application designed to help you organize your da
 
 We welcome contributions to enhance To-Do App
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any inquiries or feedback, please reach out at:
-- Email: [your.email@example.com](harsh.santwani0303@gmail.com)
+- Email: [Email](harsh.santwani0303@gmail.com)
 - GitHub: [HydrallHarsh](https://github.com/HydrallHarsh)
