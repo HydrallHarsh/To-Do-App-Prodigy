@@ -11,8 +11,14 @@ To-Do App is a task management application designed to help you organize your da
 
 ## Screenshots
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 1](Todo1.jpg)
+### Create Task: -
+![Screenshot 2](ToDo2.jpg)
+![Screenshot 3](ToDo3.jpg)
+### Edit Tasks: -
+![Screenshot 4](ToDo4.jpg)
+### Delete Tasks: -
+![Screenshot 5](ToDo5.jpg)
 
 ## Installation
 
