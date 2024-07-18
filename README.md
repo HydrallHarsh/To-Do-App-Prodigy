@@ -2,7 +2,7 @@
 
 ## Overview
 
-To-Do App is a task management application designed to help you organize your daily activities, set reminders, and track your progress. Built with a focus on simplicity and efficiency, this app ensures you never miss a task again.
+To-Do App is a task management application designed to help you organize your daily activities and track your progress. Built with a focus on simplicity and efficiency, this app ensures you never miss a task again.
 
 ## Features
 
